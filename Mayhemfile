@@ -1,6 +1,5 @@
-project: rnshah9/yocto-gl
+project: yocto-gl
 target: yconvert
-tests: null
 
 cmds:
   - cmd: /repo/bin/yconvert --info --scene /test.json
