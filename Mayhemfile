@@ -3,3 +3,4 @@ target: yconvert
 
 cmds:
   - cmd: /yconvert --info --scene @@
+    filepath: /test.json
