@@ -2,5 +2,4 @@ project: yocto-gl
 target: yconvert
 
 cmds:
-  - cmd: /repo/bin/yconvert --info --scene /test.json
-    filepath: /test.json
+  - cmd: /yconvert --info --scene @@
