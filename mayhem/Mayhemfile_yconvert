@@ -4,3 +4,4 @@ target: yconvert
 cmds:
   - cmd: /yconvert --info --scene @@
     filepath: /test.json
+image: ghcr.io/rnshah9/playground:yocto-gl

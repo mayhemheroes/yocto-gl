@@ -1,0 +1,7 @@
+project: yocto-gl
+target: abs
+
+cmds:
+  - cmd: /fuzz_abs
+    libfuzzer: true
+image: ghcr.io/rnshah9/playground:yocto-gl
